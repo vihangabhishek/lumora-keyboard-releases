@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/vihangabhishek/lumora-keyboard-releases/releases/download/v0.8.1/Lumora-Keyboard-0.8.1.apk",
-  "sha256": "4ab11da42c870a317752c109a160d2c7dea546272d4102947def99b9e082e0eb",
-  "sizeBytes": 20043400,
+  "versionCode": 10,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/vihangabhishek/lumora-keyboard-releases/releases/download/v0.9.0/Lumora-Keyboard-0.9.0.apk",
+  "sha256": "bb2d163c38b9c4a3521825304236117a591dd5b7565ee4bef8be04abc8dc036e",
+  "sizeBytes": 20051592,
   "minSdk": 24
 }
